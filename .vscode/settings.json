@@ -1,0 +1,19 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "shell.h": "c",
+        "string.h": "c",
+        "stat.h": "c",
+        "types.h": "c",
+        "malloc.h": "c",
+        "dirent.h": "c",
+        "time.h": "c",
+        "wait.h": "c",
+        "limits.h": "c",
+        "pwd.h": "c",
+        "signal.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c"
+    }
+}
